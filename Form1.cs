@@ -62,6 +62,7 @@ namespace _2_1_1
 			label15.Text = kasa.ToString()+"TL";
 			numericUpDown1.Value = 0;numericUpDown2.Value = 0;numericUpDown5.Value = 0;numericUpDown6.Value = 0;
 			label16.Text = "";
+			label15.Text = kasa.ToString() + "TL";
 		}
 
 		private void Form1_Load(object sender, EventArgs e)
